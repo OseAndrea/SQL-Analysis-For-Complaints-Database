@@ -13,16 +13,16 @@ The ComplaintsDB.sql database encompasses a comprehensive collection of consumer
 where Date received = Date Sent)
 2. Get the top 3 products that had complaints received and sent on the same day.
 3. Get the top 5 issues received and sent by CFPB on the same day.
-4. Get the top 5 companies targeted that the complaints were received and sent by CFPB
-on the same day.
-5. Get the top 3 companies with the invest number of complaints.
+4. Get the top 5 companies targeted that the complaints were received and sent by CFPB on the same day.
+5. Get the top 3 companies with the highest number of complaints.
 6. List the two dates CFPB had the most issues received.
 7. List the two dates CFPB had the lowest number of issues received.
 8. Which mode of communication had the most complaints submitted with?
 9. List two states with the most complaints received by CFPB.
-10. Which state had the most complaints received as regards "students’ loan" in the product
-name field?
+10. Which state had the most complaints received as regards "students’ loan" in the product name field?
 11. List two companies having the most consumer disputed as "yes".
+
+---
 
 ## Solutions
 1. There were 28737 complaints received and sent on the same day.
@@ -37,7 +37,30 @@ name field?
 4. Top five companies that received and sent complaints on the same day are Equifax, Experian, Bank of America, Wells Fargo & Company, and TransUnion Intermediate Holdings, Inc.
 ![CompQ4](https://github.com/OseAndrea/SQL-Analysis-For-Complaints-Database/assets/130297747/2c171051-7856-492b-9347-7037b820d20f)
 
+5. Top three companies with the highest number of complaints are Bank of America, Experian, and Equifax.
+![CompQ5](https://github.com/OseAndrea/SQL-Analysis-For-Complaints-Database/assets/130297747/cb02b065-498e-49df-a3b2-d1186243c06a)
 
+6. CFPB received the most issues on the 26th of June and 21st of February both in 2014.
+![CompQ6](https://github.com/OseAndrea/SQL-Analysis-For-Complaints-Database/assets/130297747/7f0e5f24-8102-44bd-8d96-8205e8d16908)
+
+7. CFPB received the least issues on the 2nd of September and 5th of June both of 2015.
+![CompQ7](https://github.com/OseAndrea/SQL-Analysis-For-Complaints-Database/assets/130297747/30e67457-de1b-4f19-8001-32d43a4869fd)
+
+8. The mode of communication with the most complaints is Web.
+![CompQ8](https://github.com/OseAndrea/SQL-Analysis-For-Complaints-Database/assets/130297747/ddaae997-631a-42a3-bab4-83d6cfc59249)
+
+9. The two states with the most complaints are California and Florida.
+![CompQ9](https://github.com/OseAndrea/SQL-Analysis-For-Complaints-Database/assets/130297747/d2d2d0e8-ecee-4def-b310-e1fc4f3fecc4)
+
+10. The state with the most complaints received as regards "students’ loan" are California and New York.
+![CompQ10](https://github.com/OseAndrea/SQL-Analysis-For-Complaints-Database/assets/130297747/d69232f4-d1af-491f-aa4a-324cf97d90d2)
+
+11. Two companies with the most consumer disputed as "yes" are Nationstar Mortgage and Ocwen.
+![Comp11](https://github.com/OseAndrea/SQL-Analysis-For-Complaints-Database/assets/130297747/f83c998f-faf8-499c-be15-60bceba0052b)
+
+---
+
+## Insights & Conclusion
 
 
 
