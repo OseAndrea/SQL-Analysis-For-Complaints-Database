@@ -66,6 +66,7 @@ The state witht the most complaints is California and majority of the complaints
 
 ---
 ![Thumbs-up](https://images.pexels.com/photos/3790805/pexels-photo-3790805.jpeg?auto=compress&cs=tinysrgb&w=400)
+
 Overall, this database is very insightful and provides a lot of vital information on our customer categories and their needs. If this trend continues, CFPB would be able to assist these different companies in providing optimum customer service and satisfaction.
 
 
