@@ -61,6 +61,12 @@ where Date received = Date Sent)
 ---
 
 ## Insights & Conclusion
+Out of the total 65,499 complaints lodged in two years, 28,737 were received and sent on the same day. This accounts for about 44% which is quite commendable. The company with the most complains is the Bank of Africa, while the most utilized medium of complaint receiving is via the web. With this in mind, CFPB should ensure that their web channel is constantly updated and monitored so they can promote customer satisfaction.
+The state witht the most complaints is California and majority of the complaints there focus on Student Loans which tell us that most people who use the service in that state are students.
+
+---
+![Thumbs-up](https://images.pexels.com/photos/3790805/pexels-photo-3790805.jpeg?auto=compress&cs=tinysrgb&w=400)
+Overall, this database is very insightful and provides a lot of vital information on our customer categories and their needs. If this trend continues, CFPB would be able to assist these different companies in providing optimum customer service and satisfaction.
 
 
 
