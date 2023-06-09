@@ -55,13 +55,13 @@ where Date received = Date Sent)
 10. The state with the most complaints received as regards "students’ loan" are California and New York.
 ![CompQ10](https://github.com/OseAndrea/SQL-Analysis-For-Complaints-Database/assets/130297747/d69232f4-d1af-491f-aa4a-324cf97d90d2)
 
-11. Two companies with the most consumer disputed as "yes" are Nationstar Mortgage and Ocwen.
-![Comp11](https://github.com/OseAndrea/SQL-Analysis-For-Complaints-Database/assets/130297747/f83c998f-faf8-499c-be15-60bceba0052b)
+11. Two companies with the most consumer disputed as "yes" are Bank of America and Equiax with disputes of 1069 and 962 respectively.
+![Comp11](https://github.com/OseAndrea/SQL-Analysis-For-Complaints-Database/assets/130297747/3204e57e-badb-4ea1-aca7-96114ac320ad)
 
 ---
 
 ## Insights & Conclusion
-Out of the total 65,499 complaints lodged in two years, 28,737 were received and sent on the same day. This accounts for about 44% which is quite commendable. The company with the most complains is the Bank of Africa, while the most utilized medium of complaint receiving is via the web. With this in mind, CFPB should ensure that their web channel is constantly updated and monitored so they can promote customer satisfaction.
+Out of the total 65,499 complaints lodged in two years, 28,737 were received and sent on the same day. This accounts for about 44% which is quite commendable. The company with the most complains is the Bank of America, while the most utilized medium of complaint receiving is via the web. With this in mind, CFPB should ensure that their web channel is constantly updated and monitored so they can promote customer satisfaction.
 The state witht the most complaints is California and majority of the complaints there focus on Student Loans which tell us that most people who use the service in that state are students.
 
 ---
