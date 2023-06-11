@@ -28,7 +28,7 @@ where Date received = Date Sent)
 1. There were 28737 complaints received and sent on the same day.
 ![CompQ1](https://github.com/OseAndrea/SQL-Analysis-For-Complaints-Database/assets/130297747/204869c7-e859-418f-8050-6429bfde888d)
 
-2. Top three products with complaints received and sent on the same day are Mortgage, Debit Collectin and Credit Reporting.
+2. Top three products with complaints received and sent on the same day are Mortgage, Debit Collection and Credit Reporting.
 ![CompQ2](https://github.com/OseAndrea/SQL-Analysis-For-Complaints-Database/assets/130297747/988724fc-0c79-423e-bb54-f35f04b18974)
 
 3. Top five issues received and sent on the same day are Incorrect information on credit report, loan modification issues, loan servicing issues, debts not owed, and communication tactics.
