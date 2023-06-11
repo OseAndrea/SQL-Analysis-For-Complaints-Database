@@ -32,6 +32,7 @@ where Date received = Date Sent)
 ![CompQ2](https://github.com/OseAndrea/SQL-Analysis-For-Complaints-Database/assets/130297747/988724fc-0c79-423e-bb54-f35f04b18974)
 
 3. Top five issues received and sent on the same day are Incorrect information on credit report, loan modification issues, loan servicing issues, debts not owed, and communication tactics.
+
 ![CompQ3](https://github.com/OseAndrea/SQL-Analysis-For-Complaints-Database/assets/130297747/2918cd4f-871f-4c43-af2d-71565090e32d)
 
 4. Top five companies that received and sent complaints on the same day are Equifax, Experian, Bank of America, Wells Fargo & Company, and TransUnion Intermediate Holdings, Inc.
