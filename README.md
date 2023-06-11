@@ -36,6 +36,7 @@ where Date received = Date Sent)
 ![CompQ3](https://github.com/OseAndrea/SQL-Analysis-For-Complaints-Database/assets/130297747/2918cd4f-871f-4c43-af2d-71565090e32d)
 
 4. Top five companies that received and sent complaints on the same day are Equifax, Experian, Bank of America, Wells Fargo & Company, and TransUnion Intermediate Holdings, Inc.
+
 ![CompQ4](https://github.com/OseAndrea/SQL-Analysis-For-Complaints-Database/assets/130297747/2c171051-7856-492b-9347-7037b820d20f)
 
 5. Top three companies with the highest number of complaints are Bank of America, Experian, and Equifax.
@@ -63,7 +64,7 @@ where Date received = Date Sent)
 
 ## Insights & Conclusion
 Out of the total 65,499 complaints lodged in two years, 28,737 were received and sent on the same day. This accounts for about 44% which is quite commendable. The company with the most complains is the Bank of America, while the most utilized medium of complaint receiving is via the web. With this in mind, CFPB should ensure that their web channel is constantly updated and monitored so they can promote customer satisfaction.
-The state witht the most complaints is California and majority of the complaints there focus on Student Loans which tell us that most people who use the service in that state are students.
+The state with the most complaints is California and majority of the complaints there focus on Student Loans which tell us that most people who use the service in that state are students.
 
 ---
 ![Thumbs-up](https://images.pexels.com/photos/3790805/pexels-photo-3790805.jpeg?auto=compress&cs=tinysrgb&w=400)
